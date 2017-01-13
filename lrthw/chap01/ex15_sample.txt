@@ -1,0 +1,9 @@
+Here's your file ex15_sample.txt:
+This is stuff I typed into a file.
+
+Really interesting.. sure...
+
+type the filename again: ex15_samnple.txt
+
+this is stuff i typed into a file and its super awesome\
+everything is awesome!
